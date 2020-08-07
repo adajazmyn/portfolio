@@ -1,0 +1,53 @@
+.footer {
+    text-align: center;
+    font-family: cursive;
+    font-size: large;
+    color: darkblue;
+    height: 50px;
+  }
+  .footerPosition {
+    padding-bottom: 0px;
+    position: relative;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  .header{
+      text-align: center;
+      font-family: cursive;
+      background-color: darkblue;
+      color: pink;
+  }
+
+  .navbar-nav {
+    float: right;
+    position: fixed;
+    right: 10px;
+    border-right: 10px;
+    margin-right: 10px;
+  }
+  
+  a.navbar-brand {
+    font-weight: bold;
+    color: darkblue !important;
+  }
+  
+  a.nav-item {
+    color: grey !important;
+  }
+  a.nav-item:hover {
+    color: darkblue !important;
+    font-weight: bold;
+    font-style: italic;
+  }
+  /* a.nav-item:active {
+    color: blue !important;
+    font-weight: bold;
+    font-style: italic;
+  } */
+  
+  .bg-light {
+    background-color: transparent !important;
+  }
+  
